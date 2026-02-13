@@ -49,8 +49,8 @@
 
 
 ## 🎒 Образование
-<img width="1200" height="1650" alt="08c1442714c" src="https://github.com/user-attachments/assets/5d1fa00b-c845-44cd-b87b-e728b3a142a1" />
-<img width="2400" height="3392" alt="0593eed5762" src="https://github.com/user-attachments/assets/fea3fa45-b12d-4c7d-8c1f-0cbe22e34366" />
+<img width="400" height="1000" alt="08c1442714c" src="https://github.com/user-attachments/assets/5d1fa00b-c845-44cd-b87b-e728b3a142a1" />
+<img width="400" height="1000" alt="0593eed5762" src="https://github.com/user-attachments/assets/fea3fa45-b12d-4c7d-8c1f-0cbe22e34366" />
 
 
 <br>
