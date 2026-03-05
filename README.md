@@ -1,11 +1,17 @@
-[Сертификат_ИТ_компетенций_форма_1.pdf](https://github.com/user-attachments/files/25766082/_._._._1.pdf)## Привет！ 👋
+## Привет！ 👋
 
 QA Engineer (Manual / API / Web)
+
 📍 Новосибирск | 🏠 Готов к переезду(всё зависит от офера) | 💻 Удалёнка
+
 📞 +7 (913) 481-35-55 (предпочтительно)
+
 📧 chelovek.zakon@inbox.ru
+
 💬 Telegram: @DevIS1990
+
 🐙 GitHub: github.com/DevilS1990
+
 🌐 Сайт-визитка: devils1990.github.io
 
 Желаемая зарплата: 110 000–130 000 ₽ на руки
