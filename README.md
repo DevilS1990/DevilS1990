@@ -147,6 +147,10 @@ CI/CD и контроль версий: Git, GitLab CI/CD, GitHub
 <img width="400" height="1000" alt="мидл1" src="https://github.com/user-attachments/assets/fb94d416-d4dc-4253-aead-9d22d2367d7d" />
 <img width="400" height="1000" alt="Сертификат_ИТ_компетенций" src="https://github.com/user-attachments/assets/d98a4363-807d-43b6-ae5b-edc0e78d7eb6" />
 <img width="400" height="1000" alt="Функциональное_тестирование" src="https://github.com/user-attachments/assets/9ec03a15-f712-41bd-b79b-1b9688911e7e" />
+<img width="400" height="1000" alt="Сертификат CSS" src="https://github.com/user-attachments/assets/4d175b35-f798-41f6-8cec-ded039dcad15" />
+<img width="400" height="1000" alt="Сертификат ООП" src="https://github.com/user-attachments/assets/d7fc50aa-3843-45fd-a0e8-d8f2c8c52034" />
+<img width="400" height="1000" alt="Сертификат SQL" src="https://github.com/user-attachments/assets/923439a6-186d-48d9-b0d8-f5d40050d784" />
+
 
 
 
