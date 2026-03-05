@@ -6,7 +6,7 @@ QA Engineer (Manual / API / Web)
 
 📞 +7 (913) 481-35-55 (предпочтительно)
 
-📧 chelovek.zakon@inbox.ru
+📧 chelovek.zakon@inbox.ru / devils1990@yandex.ru
 
 💬 Telegram: @DevIS1990
 
