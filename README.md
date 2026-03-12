@@ -130,6 +130,7 @@ API и микросервисы
 <img width="400" height="1000" alt="Сертификат ООП" src="https://github.com/user-attachments/assets/d7fc50aa-3843-45fd-a0e8-d8f2c8c52034" />
 <img width="400" height="1000" alt="Сертификат SQL" src="https://github.com/user-attachments/assets/923439a6-186d-48d9-b0d8-f5d40050d784" />
 <img width="400" height="1000" alt="Сертификат PostageSQL" src="https://github.com/user-attachments/assets/25559338-5673-49fa-b416-aeb0c9ee2113" />
+<img width="400" height="1000" alt="Сертификат JavaScript" src="https://github.com/user-attachments/assets/f767ecaa-313c-4ee5-94d5-3242811c32d0" />
 
 
 
