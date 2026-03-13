@@ -1,6 +1,6 @@
 ## Привет！ 👋
 
-QA Engineer (Manual / API / Web)
+Middle QA Engineer / Manual
 
 📍 Новосибирск | 🏠 Готов к переезду(всё зависит от офера) | 💻 Удалёнка
 
@@ -29,7 +29,7 @@ QA Engineer (Manual / API / Web)
 
 · Области: Микросервисная архитектура (сервисы оплаты, авторизации, ачивок, PvP), Монолит, Клиент-сервер, Базы данных.
 
-· Инструменты: Postman (коллекции, окружения), Swagger, SoapUI, WireMock, Kafka, Jaeger, Kibana, Sentry, Grafana, Git, GitLab CI/CD, Charles Proxy, BrowserStack.
+· Инструменты: Devtools, Postman (коллекции, окружения), Swagger, SoapUI, WireMock, Kafka, Jaeger, Kibana, Sentry, Grafana, Git, GitLab CI/CD, Charles Proxy, BrowserStack.
 
 ---
 
