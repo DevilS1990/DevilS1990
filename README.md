@@ -166,7 +166,9 @@ API И ИНТЕГРАЦИОННОЕ ТЕСТИРОВАНИЕ МИКРОСЕРВ�
 <img width="400" height="1000" alt="Сертификат CSS" src="https://github.com/user-attachments/assets/4d175b35-f798-41f6-8cec-ded039dcad15" />
 <img width="400" height="1000" alt="Сертификат ООП" src="https://github.com/user-attachments/assets/d7fc50aa-3843-45fd-a0e8-d8f2c8c52034" />
 <img width="400" height="1000" alt="Сертификат SQL" src="https://github.com/user-attachments/assets/923439a6-186d-48d9-b0d8-f5d40050d784" />
-
+<img width="400" height="1000" alt="Сертификат Docker" src="https://github.com/user-attachments/assets/25e8d01b-a55c-44d3-be1b-a18a57092a01" />
+<img width="400" height="1000" alt="Сертификат Git" src="https://github.com/user-attachments/assets/b456717f-bdf0-4474-a34a-a7a680ca391a" />
+<img width="400" height="1000" alt="Сертификат Linux" src="https://github.com/user-attachments/assets/3fc97aee-dbbe-41fa-a0a6-add9926fdd9a" />
 <img width="400" height="1000" alt="Сертификат PostageSQL" src="https://github.com/user-attachments/assets/25559338-5673-49fa-b416-aeb0c9ee2113"/>
 
 
