@@ -1,6 +1,6 @@
 ## Привет！ 👋
 
-Middle QA Engineer / Manual
+QA Engineer / Manual / WEB / API / IOS / Android
 
 📍 Новосибирск | 🏠 Готов к переезду(всё зависит от офера) | 💻 Удалёнка
 
