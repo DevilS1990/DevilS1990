@@ -19,7 +19,7 @@ QA Engineer / Manual / WEB / API / IOS / Android
 
 Во время стажировки в QA Studio работал в кросс-функциональной команде из 6–8 разработчиков, 2 QA, аналитика и PM. Участвовал в полном цикле разработки: от анализа требований до релиза и мониторинга в продакшене
 
-Стек: PostgreSQL, MongoDB, Kafka, REST/SOAP, Postman, WireMock, GitLab CI/CD, Test IT, JavaScript (автотесты)
+Стек: PostgreSQL, MongoDB, Kafka, REST/SOAP, Postman / Insomnia, WireMock, GitLab CI/CD, Test IT, JavaScript (автотесты)
 
 ---
 
