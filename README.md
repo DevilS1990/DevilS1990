@@ -165,17 +165,17 @@ API И ИНТЕГРАЦИОННОЕ ТЕСТИРОВАНИЕ МИКРОСЕРВ�
 ## 🎒 Образование
 <img width="400" height="600" alt="08c1442714c" src="https://github.com/user-attachments/assets/5d1fa00b-c845-44cd-b87b-e728b3a142a1" />
 <img width="400" height="600" alt="мидл" src="https://github.com/user-attachments/assets/bfed1500-064a-464b-927b-118406d36e19" />
-<img width="600" height="1000" alt="Сертификат_ИТ_компетенций" src="https://github.com/user-attachments/assets/d98a4363-807d-43b6-ae5b-edc0e78d7eb6" />
-<img width="600" height="1000" alt="Функциональное_тестирование" src="https://github.com/user-attachments/assets/9ec03a15-f712-41bd-b79b-1b9688911e7e" />
-<img width="600" height="1000" alt="Сертификат CSS" src="https://github.com/user-attachments/assets/4d175b35-f798-41f6-8cec-ded039dcad15" />
-<img width="600" height="1000" alt="Сертификат ООП" src="https://github.com/user-attachments/assets/d7fc50aa-3843-45fd-a0e8-d8f2c8c52034" />
-<img width="600" height="1000" alt="Сертификат SQL" src="https://github.com/user-attachments/assets/923439a6-186d-48d9-b0d8-f5d40050d784" />
-<img width="600" height="1000" alt="Сертификат Docker" src="https://github.com/user-attachments/assets/25e8d01b-a55c-44d3-be1b-a18a57092a01" />
-<img width="600" height="1000" alt="Сертификат Git" src="https://github.com/user-attachments/assets/b456717f-bdf0-4474-a34a-a7a680ca391a" />
-<img width="600" height="1000" alt="Сертификат Linux" src="https://github.com/user-attachments/assets/3fc97aee-dbbe-41fa-a0a6-add9926fdd9a" />
-<img width="600" height="1000" alt="Сертификат JavaSkript" src="https://github.com/user-attachments/assets/08ed184d-3d1e-4a94-a446-338b39181ab4" />
-<img width="600" height="1000" alt="Сертификат PostageSQL" src="https://github.com/user-attachments/assets/25559338-5673-49fa-b416-aeb0c9ee2113"/>
-<img width="600" height="1000" alt="HTML" src="https://github.com/user-attachments/assets/58e28604-ce16-487e-b79b-b129a77369bb" />
+<img width="400" height="600" alt="Сертификат_ИТ_компетенций" src="https://github.com/user-attachments/assets/d98a4363-807d-43b6-ae5b-edc0e78d7eb6" />
+<img width="400" height="600" alt="Функциональное_тестирование" src="https://github.com/user-attachments/assets/9ec03a15-f712-41bd-b79b-1b9688911e7e" />
+<img width="400" height="600" alt="Сертификат CSS" src="https://github.com/user-attachments/assets/4d175b35-f798-41f6-8cec-ded039dcad15" />
+<img width="400" height="600" alt="Сертификат ООП" src="https://github.com/user-attachments/assets/d7fc50aa-3843-45fd-a0e8-d8f2c8c52034" />
+<img width="400" height="600" alt="Сертификат SQL" src="https://github.com/user-attachments/assets/923439a6-186d-48d9-b0d8-f5d40050d784" />
+<img width="400" height="600" alt="Сертификат Docker" src="https://github.com/user-attachments/assets/25e8d01b-a55c-44d3-be1b-a18a57092a01" />
+<img width="400" height="600" alt="Сертификат Git" src="https://github.com/user-attachments/assets/b456717f-bdf0-4474-a34a-a7a680ca391a" />
+<img width="400" height="600" alt="Сертификат Linux" src="https://github.com/user-attachments/assets/3fc97aee-dbbe-41fa-a0a6-add9926fdd9a" />
+<img width="400" height="600" alt="Сертификат JavaSkript" src="https://github.com/user-attachments/assets/08ed184d-3d1e-4a94-a446-338b39181ab4" />
+<img width="400" height="600" alt="Сертификат PostageSQL" src="https://github.com/user-attachments/assets/25559338-5673-49fa-b416-aeb0c9ee2113"/>
+<img width="400" height="600" alt="HTML" src="https://github.com/user-attachments/assets/58e28604-ce16-487e-b79b-b129a77369bb" />
 
 
 
