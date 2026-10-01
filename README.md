@@ -163,8 +163,8 @@ API И ИНТЕГРАЦИОННОЕ ТЕСТИРОВАНИЕ МИКРОСЕРВ�
 
 
 ## 🎒 Образование
-<img width="500" height="1000" alt="08c1442714c" src="https://github.com/user-attachments/assets/5d1fa00b-c845-44cd-b87b-e728b3a142a1" />
-<img width="500" height="1000" alt="мидл" src="https://github.com/user-attachments/assets/bfed1500-064a-464b-927b-118406d36e19" />
+<img width="450" height="1000" alt="08c1442714c" src="https://github.com/user-attachments/assets/5d1fa00b-c845-44cd-b87b-e728b3a142a1" />
+<img width="450" height="1000" alt="мидл" src="https://github.com/user-attachments/assets/bfed1500-064a-464b-927b-118406d36e19" />
 <img width="600" height="1000" alt="Сертификат_ИТ_компетенций" src="https://github.com/user-attachments/assets/d98a4363-807d-43b6-ae5b-edc0e78d7eb6" />
 <img width="600" height="1000" alt="Функциональное_тестирование" src="https://github.com/user-attachments/assets/9ec03a15-f712-41bd-b79b-1b9688911e7e" />
 <img width="600" height="1000" alt="Сертификат CSS" src="https://github.com/user-attachments/assets/4d175b35-f798-41f6-8cec-ded039dcad15" />
